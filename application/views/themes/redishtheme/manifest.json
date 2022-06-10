@@ -1,0 +1,9 @@
+{
+    "name": "Tema",
+    "version": 1.2,
+    "author": {
+        "name": "Poetri Salon"
+    },
+    "thumbnail" : "assets/_thumbnail.png",
+    "cover": "assets/_cover.png"
+}
